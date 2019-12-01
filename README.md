@@ -1,6 +1,6 @@
 # Mello
 
-[Mello App](https://mellov2.herokuapp.com/boards/1)
+[Mello App](https://mellov2.herokuapp.com)
 
 ##### Mello is a Trello clone
 
